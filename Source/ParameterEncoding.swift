@@ -33,6 +33,7 @@ public enum HTTPMethod: String {
     case head    = "HEAD"
     case post    = "POST"
     case put     = "PUT"
+    case update  = "UPDATE"
     case patch   = "PATCH"
     case delete  = "DELETE"
     case trace   = "TRACE"
